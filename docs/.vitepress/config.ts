@@ -12,5 +12,6 @@ export default defineConfig({
     footer: {
       copyright: '© 2023 SkyDesk All Rights Reserved'
     }
-  }
+  },
+  base: "https://skydesk.ca"
 })
