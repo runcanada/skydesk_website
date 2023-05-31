@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "SkyDesk"
-  text: "A professional AI consulting firm."
+  text: "A professional AI firm."
   actions:
     - theme: brand
       text: Contact
